@@ -1,5 +1,11 @@
 # Real-Time-ChatApp
-Real-time Chat App using React, Node.js and Socket.io
+
+The application allows creating chats between two users and sending live messages to each other,
+The app uses React to build the chat and users,
+Node.js for building the server
+Socket.io for creating the connection between users live.
+
+In addition the application uses MongoDB to save users, chats and messages in the database.
 
 ![chat app login page](https://github.com/yonac2803/Real-Time-ChatApp/assets/129726361/2a1c3137-f8a9-4c83-82fb-4d77d48b1ee9)
 
